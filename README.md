@@ -1,6 +1,6 @@
 # ValiantsinaK85.github.io
 <html>
-</head>
+
 <body>
 <center><h1>Информация обо мне</h1></center>
 Краткая биография обо мне
